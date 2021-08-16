@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofianeklm&show_icons=true&theme=cobalt&locale=en" alt="sofianeklm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofianeklm&theme=highcontrast" alt="sofianeklm" /></p>
+
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sofianeklm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dz.linkedin.com/in/sofianeklm?trk=profile-badge">Sofiane KLM</a></div>
+              
