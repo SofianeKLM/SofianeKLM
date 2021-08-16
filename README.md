@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/sofianeklm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sofianeklm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sofianeklm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofianeklm" height="30" width="40" /></a>
 <a href="https://fb.com/klm.sofiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="klm.sofiane" height="30" width="40" /></a>
-<a href="https://instagram.com/sofianeklm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofianeklm" height="30" width="40" /></a>
+<a href="https://instagram.com/sofianekalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofianekalem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
