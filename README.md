@@ -35,12 +35,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofianeklm&theme=highcontrast" alt="sofianeklm" /></p>
 
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sofianeklm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dz.linkedin.com/in/sofianeklm?trk=profile-badge">Sofiane KLM</a></div>
-            
-</script>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sofianeklm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dz.linkedin.com/in/sofianeklm?trk=profile-badge">My LinkedIn</a></div>
 
 
 
